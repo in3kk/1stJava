@@ -7,6 +7,7 @@ public class first {
 		System.out.println("hello");
 		System.out.println("?????????????????");
 		System.out.println("코드 작성중");
+		System.out.println("Polaroid Love");
 	}
 
 }
