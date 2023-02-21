@@ -10,6 +10,8 @@ public class first {
 		System.out.println("Polaroid Love");
 		System.out.println("MyUniverse");
 		System.out.println("I don't think that I like her");
+		System.out.println("I don't think that I like her");
+		System.out.println("I don't think that I like her");
 	}
 
 }
